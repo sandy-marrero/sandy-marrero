@@ -15,7 +15,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=sandy-marrero&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
@@ -32,7 +32,7 @@
 
 
 ### :technologist: About Me :
-  💻I'm a senior Software Engineering Student at UPRM.
+  💻I'm a third year Software Engineering student in the University of Puerto Rico, Mayaguez.
 
   - :telescope: I'm currently learning about Web Development and Android development. 
 
@@ -41,6 +41,10 @@
 - :zap: In my free time I enjoy reading and learning about new things that interest me.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Sandy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-marrero-hern%C3%A1ndez/)
+
+
+---
+
 
 
 ### 🛠️ Languages and Tools :
