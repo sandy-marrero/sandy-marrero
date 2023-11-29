@@ -32,7 +32,7 @@
 
 
 ### :technologist: About Me :
-  💻I'm a third year Software Engineering student in the University of Puerto Rico, Mayaguez.
+  💻I'm a 5th year Software Engineering student in the University of Puerto Rico, Mayaguez.
 
   - :telescope: I'm currently learning about Web Development and Android development. 
 
