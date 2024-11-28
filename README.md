@@ -7,7 +7,7 @@
 
 - 🎓 I'm a 6th-year Software Engineering student at the University of Puerto Rico, Mayaguez, graduating in May 2025.
 - 💻 Interned as a Software Engineering Intern at **Google** (2024) and **BlackRock** (2023), with hands-on experience in Android and Backend development.
-- 🌟 Currently learning **Web Development**, **Android Development**, and **Mobile Development**.
+- 🌟 Currently learning **Web Development**, **Android Development**, and **iOS Development**.
 - 🌱 In my free time, I enjoy reading about interesting topics and learning new skills!
 - 💼 Looking for **Full Time opportunities** for Summer 2025.
 - 🏆 Recognized with the **Microsoft Sustainability Hackathon 1st Place** and **Boeing Excellence Scholarship**.
@@ -73,9 +73,8 @@ software for embedded devices using C++ and Python.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy-marrero&show_icons=true&locale=en&layout=compact" alt="sandy-marrero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandy-marrero&show_icons=true&locale=en" alt="sandy-marrero" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-marrero&" alt="sandy-marrero" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandy-marrero" alt="sandy-marrero" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandy-marrero&show_icons=true&locale=en" alt="sandy-marrero" /></p>
+
 
