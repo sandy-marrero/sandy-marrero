@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🎓 I'm a 6th-year Software Engineering student at the University of Puerto Rico, Mayaguez, graduating in May 2025.
+- 🎓 I'm a senior Software Engineering student at the University of Puerto Rico, Mayaguez, graduating in May 2025.
 - 💻 Interned as a Software Engineering Intern at **Google** (2024) and **BlackRock** (2023), with hands-on experience in Android and Backend development.
 - 🌟 Currently learning **Web Development**, **Android Development**, and **iOS Development**.
 - 🌱 In my free time, I enjoy reading about interesting topics and learning new skills!
